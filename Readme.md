@@ -67,7 +67,7 @@ How to Run
 
 How to Use
 =======
-1. Follow the steps above to create a _wah_~_ object. Connect the outlet to a _dac~_ or other outlet for further processing
+1. Follow the steps above to create a _wah~_ object. Connect the outlet to a _dac~_ or other outlet for further processing
 2. Connect an audio signal to the first inlet
 3. Then send frequency values (as number atoms) to the first inlet to set the frequency "center" of the _wah~_
     - modulate this value to for wah-wah like effects
